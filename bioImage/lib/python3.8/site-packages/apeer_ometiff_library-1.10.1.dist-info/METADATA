@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: apeer-ometiff-library
+Version: 1.10.1
+Summary: Library to read and write ometiff images
+Home-page: https://github.com/apeer-micro/apeer-ometiff-library
+Author: apeer-micro
+Author-email: UNKNOWN
+License: MIT
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Dist: numpy (>=1.18.5)
+Requires-Dist: tifffile (==2020.6.3)
+Requires-Dist: imagecodecs (==2020.5.30)
+
+UNKNOWN
+
+
