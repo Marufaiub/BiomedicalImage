@@ -2,4 +2,5 @@
 Learning from scratch 
 
 1. Heart Disease prediction
-2. Medical Image Understanding
+    <sub>heart</sub>
+3. Medical Image Understanding
