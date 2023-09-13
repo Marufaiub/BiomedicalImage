@@ -2,5 +2,5 @@
 Learning from scratch 
 
 1. Heart Disease prediction
-    <sub>heart</sub>
+    HeartDes.ipynb
 3. Medical Image Understanding
